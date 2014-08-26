@@ -27,4 +27,4 @@ Notes:
 Walkthrough of all user stories:
 
 
-todo_using_licecap.gif
+![Video Walkthrough](todo_using_licecap.gif)
